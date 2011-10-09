@@ -1,0 +1,13 @@
+C:\dev\vs2010\projects\MiniBrowser\MiniBrowser\Bin\Debug\ApplicationIcon.png
+C:\dev\vs2010\projects\MiniBrowser\MiniBrowser\Bin\Debug\Background.png
+C:\dev\vs2010\projects\MiniBrowser\MiniBrowser\Bin\Debug\MiniBrowser.dll
+C:\dev\vs2010\projects\MiniBrowser\MiniBrowser\Bin\Debug\MiniBrowser.pdb
+C:\dev\vs2010\projects\MiniBrowser\MiniBrowser\Bin\Debug\AppManifest.xaml
+C:\dev\vs2010\projects\MiniBrowser\MiniBrowser\Bin\Debug\MiniBrowser.xap
+C:\dev\vs2010\projects\MiniBrowser\MiniBrowser\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\vs2010\projects\MiniBrowser\MiniBrowser\obj\Debug\App.g.i.cs
+C:\dev\vs2010\projects\MiniBrowser\MiniBrowser\obj\Debug\MainPage.g.i.cs
+C:\dev\vs2010\projects\MiniBrowser\MiniBrowser\obj\Debug\MiniBrowser.g.resources
+C:\dev\vs2010\projects\MiniBrowser\MiniBrowser\obj\Debug\MiniBrowser.dll
+C:\dev\vs2010\projects\MiniBrowser\MiniBrowser\obj\Debug\MiniBrowser.pdb
+C:\dev\vs2010\projects\MiniBrowser\MiniBrowser\obj\Debug\XapCacheFile.xml
